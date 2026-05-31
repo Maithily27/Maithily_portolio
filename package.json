@@ -1,0 +1,53 @@
+{
+  "name": "maithily-portfolio",
+  "version": "2.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "framer-motion": "^10.16.5",
+    "react-icons": "^4.12.0",
+    "recharts": "^2.10.3",
+    "@emailjs/browser": "^3.11.0",
+    "three": "^0.162.0",
+    "@react-three/fiber": "^8.15.14",
+    "@react-three/drei": "^9.98.1",
+    "gsap": "^3.12.5",
+    "react-parallax-tilt": "^1.7.226",
+    "react-lazy-load-image-component": "^1.6.0",
+    "react-intersection-observer": "^9.8.0"
+  },
+  "devDependencies": {
+    "ajv": "^8.12.0",
+    "ajv-keywords": "^5.1.0",
+    "eslint": "^8.56.0",
+    "eslint-config-react-app": "^7.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ],
+    "rules": {
+      "import/first": "off"
+    }
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
