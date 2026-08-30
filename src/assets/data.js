@@ -11,7 +11,7 @@ export const portfolioData = {
     {
       degree: "Bachelor of Technology",
       institution: "J.D College of Engineering & Management",
-      score: "SGPA: 9.68",
+      score: "CGPA: 8.88",
       year: "2021-2025"
     },
     {
