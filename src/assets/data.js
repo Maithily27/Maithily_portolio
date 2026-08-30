@@ -12,7 +12,7 @@ export const portfolioData = {
       degree: "Bachelor of Technology",
       institution: "J.D College of Engineering & Management",
       score: "CGPA: 8.88",
-      year: "2021-2025"
+      year: "2021-26"
     },
     {
       degree: "Higher Secondary Certificate (H.S.C)",
